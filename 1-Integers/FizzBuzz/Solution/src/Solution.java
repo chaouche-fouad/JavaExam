@@ -27,3 +27,4 @@ public class Solution {
         System.out.println("Output : " + solution.fizzBuzz(n));
     }
 }
+
